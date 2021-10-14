@@ -37,9 +37,7 @@ do
 
 		echo "[ENCODED ] $(file -I "$file")"
 	else
-		echo "found $file"
 		echo "is not a $EXT file"
-		echo "Skip!"
 	fi
 done
 
