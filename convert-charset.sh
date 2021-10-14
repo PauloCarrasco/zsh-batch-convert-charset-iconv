@@ -37,7 +37,7 @@ do
 
 		echo "[ENCODED ] $(file -I "$file")"
 	else
-		echo "is not a $EXT file"
+		echo "[IGNORE  ] is not a $EXT file"
 	fi
 done
 
