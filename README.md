@@ -6,9 +6,13 @@ This shell script was created to help converting a lot of files from one charset
 
 The usage is simple, just clone/download this bash file, put the shell script where your files are (or put in a script folder and configure the PATH).
 
-# Operating System
+# Testing
 
-This script was created and tested on MacOS Big Sur + zshell
+This script was tested on: 
+
+* MacOS Big Sur + zshell 
+* Windows 11 + Ubuntu 20.04 LTS subsystem + zshell 
+
 ### Prerequisites
 
 You only need:
